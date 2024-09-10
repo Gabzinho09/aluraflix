@@ -1,9 +1,6 @@
 body{
     color: black;
     background: red;
-    font-family: "Poppins", system-ui;
-  font-weight: 100;
-  font-style: normal;
 }
 header {
     border-bottom: solid 2px rgb(42, 122, 228);
@@ -17,15 +14,4 @@ section {
     padding-top: 80px;
     display: flex;
     justify-content: center;
-}
-.chamada-texto {
-    margin-right: 5%;
-}
-
-h1{
-    font-size: 40px;
-}
-
-p{
-    font-size: 20px;
 }
